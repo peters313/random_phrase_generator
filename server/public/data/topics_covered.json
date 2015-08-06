@@ -1,0 +1,24 @@
+{
+  "key": "topics",
+  "values": [
+    "arrays",
+    "objects",
+    "node",
+    "angular",
+    "javascript",
+    "jquery",
+    "strings",
+    "express",
+    "path",
+    "routing",
+    "html",
+    "css",
+    "non-violent communication",
+    "public speaking",
+    "mongoDB",
+    "grunt",
+    "heroku",
+    "database",
+    "modules"
+]
+}
